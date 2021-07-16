@@ -1,0 +1,49 @@
+Edward Torres
+July 9, 2021
+
+Module 1: What is code?
+
+1) In your own words, what is a computer really doing whenever you type a letter on a
+keyboard?
+
+The computer receives the signal created from pressing the key on the keyboard and interprets the signal. Once the signal code is interpreted it goes into its memory in order to create a pixelated image of the letter, which appears on our screen. 
+
+2) In your own words, how do computers use input and output to create experiences? 
+
+Computers receive signals or code, that they interpret. These interpretations lead to instructions for the computer. The computer follows these sequences of instructions to generate some sort of output.
+
+3) Explain why software products are essentially “infinitely reproducible nothings.” 
+
+In this day and age, softwares are everywhere. With the ability to create software becoming easier, people have been able to create cheaper versions of software that are more accessible. This leads to countless different versions of softwares which try to improve on past softwares in order to create a better product.
+
+4) Explain in your own words how code becomes software.
+
+Code is essentially a collection of words and characters ,written in a sequence, that we input into a computer. We use code to create a collection of instructions, through functions and algorithms that can be executed. A compiler takes our code and turns it into instructions for our computer. 
+
+5) Explain “algorithms” in your own words. 
+
+An algorithm is a sequence of steps/instructions that are used to find solutions or perform some type of calculations. For example in a sorting algorithm, we might have a computer program compare numbers in a set and rearrange them through a sequence of instructions. It’ll compare the first two numbers in our set and place the smallest number first and the other second. Then it’ll move onto the second and third number and do the same for the rest of the set, until we have a set of numbers in an ascending order. 
+
+6) Explain the DRY principle. 
+
+The DRY principle stands for Don’t Repeat Yourself. It refers to repetitive lines of code that could leave your code looking cluttered. It encourages you to assign variables and functions that could be repetitively used in place of lines of code in order to have your code more neatly written. 
+
+7) In your own words, what is object-oriented programming? 
+It is used to help organize complex code and make it less cluttered. We create a library of program files that do specific things and have their own instructions. When writing a file of code we can call these other files instead of repetitively writing lines of codes or creating functions for things.
+
+8) In your own words explain data and how it relates to code.
+
+In statistics, we refers to data as information that can either be quantitative or qualitative. Data is information that can take the form of numbers, characters, words, symbols, emails, pictures, videos etc. We use code to capture data, store data, clean data, transform data, analyze data, and visualize data. 
+
+9) What is a framework? 
+
+Previously written code or applications that can be used as building blocks to create new software or programs. It helps save developers time and energy writing code. 
+
+10) What is debugging? 
+
+Debugging is the process of finding the source of a coding problem and finding a solution to it. It is a little like proof reading your code in order to make sure we get rid of errors. 
+
+11) Now, with more of an understanding of what code is, why do you want to learn how to
+code?
+
+I want to learn how to code in order to more effectively make use of raw data. There are some things that only a computer has the power to do and coding makes it possible to have these computer perform these tasks for us. For instance, in bootstrapping we create various random samples of our data with replacement. The more samples we create the more accurate our statistical tests using these samples become. If I wanted to create 100,000 samples of my data it would take forever manually, but with code I can have my computer accomplish this task in seconds. With the large amount of data that is available to us today, it is necessary to use code in order to efficiently make use of it, thus making it vital to data science. In data science, we use programming languages such as Python and R in order to clean, transform, analyze and visualize data. I want to be able to code proficiently in both of these programming languages. 
