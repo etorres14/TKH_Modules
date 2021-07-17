@@ -1,0 +1,20 @@
+Edward Torres
+July 16, 2021
+
+Module 2: Git and Bash
+
+1) What is Git and how is it different from Github
+
+Git is the most popular version of version control, which is a way to manage code. It works its benefits are similar to those of Google documents. It allows for collaborations on code to be done. Github is a place online where people can host their Git Repositories. There are other platforms that do the same such as BitBucket and GitLab. As mentioned in the Module 2 file, Git is the actual version control tool. 
+
+
+2) Why use the terminal?
+It is more efficient to use the terminal. Once you become used to operating the terminal, one can work faster in it. 
+
+3) 3 benefits of version control in your own words.
+
+ 1. It allows people to collaborate and work on code together. Everyone can access the code at a central location. 
+
+2. With version control we can keep track of changes done to our code over time and by whom. 
+
+3. If for whatever reason the group needs track back, version control allows us to revert our code back to its original state. 
