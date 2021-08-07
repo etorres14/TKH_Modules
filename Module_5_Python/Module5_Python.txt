@@ -1,0 +1,15 @@
+1) What is Python?
+
+Python is one of the most popular  programming languages in the United States used by programmers, mathematicians, and data scientist used to create code to solve solutions. It comes with its own set of libraries and syntax and is an open source program.
+
+2) Explain Data Python Data Types.
+
+Data types in Python include Boolean(True, false), Strings, integers, and floats. Strings are textual data while integers and floats are numerical.
+
+3) Explain in your own words what is a function.
+
+A function is set of instructions in the form of code. Functions receive input in order to generate an output for the user.
+
+4) Explain the Python print statement.
+
+The Python print statement is used to display the output of some argument. This argument can come in the form of a string, integer, float or Boolean. We can use the print statement to display lists as well.
